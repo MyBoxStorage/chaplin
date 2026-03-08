@@ -1,0 +1,6 @@
+﻿{
+  "rewrites": [
+    { "source": "/", "destination": "/chaplin.html" },
+    { "source": "/(.*)", "destination": "/chaplin.html" }
+  ]
+}
